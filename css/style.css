@@ -198,8 +198,7 @@ span {
     margin-top: 15px;
 }
 
-.box1-img {
-    background-image: url(../images/speaker.jpg);
+.box-img {
     height: 300px;
     background-size: cover;
     background-repeat: no-repeat;
@@ -223,64 +222,6 @@ h2 {
     margin-bottom: 10px;
 }
 
-.box2-img {
-    background-image: url(../images/makeup.jpg);
-    height: 290px;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
-.box3-img {
-    background-image: url(../images/watch.jpg);
-    height: 290px;
-    background-size: contain;
-    background-repeat: no-repeat;
-    margin-left: 50px;
-}
-
-.box4-img {
-    background-image: url(../images/shoes.jpg);
-    height: 290px;
-    background-size: contain;
-    background-repeat: no-repeat;
-    margin-left: 3px;
-}
-
-.box5-img {
-    background-image: url(../images/product.jpg);
-    height: 300px;
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-    margin-left: 3px;
-}
-
-.box6-img {
-    background-image: url(../images/necklace.jpg);
-    height: 300px;
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-    margin-left: 3px;
-}
-
-.box7-img {
-    background-image: url(../images/perfume.jpg);
-    height: 300px;
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-    margin-left: 3px;
-}
-
-.box8-img {
-    background-image: url(../images/oil.jpg);
-    height: 300px;
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-    margin-left: 3px;
-}
 
 /* Footer */
 footer {

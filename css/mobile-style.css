@@ -122,40 +122,12 @@
     }
 
     .box {
-        height: 180px;
-        width: 47%;
+        height: 320px;
+        width: 85%;
     }
 
-    .box1-img {
-        height: 90px;
-    }
-
-    .box2-img {
-        height: 90px;
-    }
-
-    .box3-img {
-        height: 90px;
-    }
-
-    .box4-img {
-        height: 90px;
-    }
-
-    .box5-img {
-        height: 90px;
-    }
-
-    .box6-img {
-        height: 90px;
-    }
-
-    .box7-img {
-        height: 90px;
-    }
-
-    .box8-img {
-        height: 90px;
+    .box-img {
+        height: 220px;
     }
 
     .box-content {
